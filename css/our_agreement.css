@@ -1,0 +1,25 @@
+.content-area img {
+	width: 410px;
+}
+
+.content-area h3 {
+	font-size: 20px;
+}
+
+.main .content-area {
+	width: 85%;
+	margin: auto;
+	float: none;
+}
+
+.main .content-area h3 {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+.textcenter {
+	text-align: center;
+}

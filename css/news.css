@@ -1,0 +1,33 @@
+h5 {
+	font-size: 17px;
+	margin-bottom: 5px;
+}
+
+.main h5 a {
+	color: blue;
+	text-decoration: underline;
+}
+
+.newsline {
+	margin-bottom: 25px;
+}
+
+
+.main .content-area {
+	width: 85%;
+	margin: auto;
+	float: none;
+}
+
+.main .content-area h3 {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+	font-size: 15px;
+}
+
+.textcenter {
+	text-align: center;
+}

@@ -1,0 +1,21 @@
+.center {
+	width: 1170px;
+}
+
+.main .content-area {
+	margin: auto;
+	float: none;
+	width: 100%;
+}
+
+.main .content-area img {
+	margin: auto;
+	margin-bottom: 20px;
+	display: block;
+	max-width: 300px;
+}
+
+.main .content-area h3 {
+	margin-bottom: 20px;
+	text-align: center;
+}

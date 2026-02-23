@@ -1,0 +1,71 @@
+form ul {
+	padding: 0;
+	margin: 0;
+}
+
+form ul li {
+	list-style-type: none;
+	margin-bottom: 6px;
+}
+
+form ul li label {
+	font-size: 14px;
+	float: left;
+	width: 80px;
+	margin-top: 7px;
+}
+
+form ul li input[type=text] {
+	border: none;
+	background: #fff;
+	font-size: 14px;
+	width: 281px;
+	padding: 5px 10px;
+}
+
+form ul li textarea {
+	border: none;
+	background: #fff;
+	font-size: 14px;
+	width: 515px;
+	height: 300px;
+	padding: 5px 10px;
+}
+
+
+form ul li input[type=submit] {
+	float: right;
+	background: transparent;
+	color: #00989d;
+	font-size: 14px;
+	border: none;
+	border-bottom: 1px solid #00989d;
+	cursor: pointer;
+	padding: 0;
+}
+
+
+
+
+.main .content-area {
+	width: 64%;
+	margin: auto;
+	float: none;
+}
+
+.main .content-area h3 {
+	text-align: center;
+}
+
+p {
+	text-align: left;
+}
+
+.textcenter {
+	text-align: center;
+}
+
+.contact-sec {
+	margin-top: 20px;
+	margin-left: 80px;
+}
